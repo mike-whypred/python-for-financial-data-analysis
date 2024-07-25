@@ -13,13 +13,10 @@ Join us for an intensive Python for Financial Data Analysis workshop designed to
 This is the resources page for the course. Below you will find links to the Colab notebooks used in each module and the Streamlit quiz page to test your knowledge.
 
 ### Colab Notebooks
-- [Introduction to Python Notebook](https://colab.research.google.com/your_notebook_link_1)
-- [Data Handling Techniques Notebook](https://colab.research.google.com/your_notebook_link_2)
-- [Advanced Data Analysis Notebook](https://colab.research.google.com/your_notebook_link_3)
-- [Special Topics in Data Analysis Notebook](https://colab.research.google.com/your_notebook_link_4)
 
-### Interactive Quiz
-Test your knowledge and reinforce your learning with our [Streamlit Quiz](https://your_streamlit_quiz_link).
+
+### Final Quiz
+Finish this quiz at the end of the course to receive an e-certificate for your LinkedIn 
 
 ---
 

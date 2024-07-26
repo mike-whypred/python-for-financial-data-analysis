@@ -17,7 +17,7 @@ This is the resources page for the course. Below you will find links to the Cola
 
 2. [Module 2 Working with Dataframes](https://colab.research.google.com/drive/1hfuC2GoSk-7s31rutV05ars0JEJw-eqw?usp=sharing)
 
-3. Module 3 Transforming Data
+3. [Module 3 Transforming Data](https://colab.research.google.com/drive/1M-FvaF8SSoAAgMYxpkorNAcwUojH9Gz7?usp=sharing)
 
 4. Module 4 Applying Analysis and Case Study
 

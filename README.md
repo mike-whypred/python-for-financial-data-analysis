@@ -6,7 +6,7 @@ Welcome to the Python for Financial Data Analysis Training Workshop Resources Pa
 
 ## Overview
 
-Join us for an intensive Python for Financial Data Analysis workshop designed to help you harness the power of Python in your data-driven analysis and research tasks. This workshop is ideal for anyone aiming to gain a solid understanding of Python python fundaments and its application in data analysis to foster actionable insights and enhance productivity in the workplace.
+Join us for an intensive Python for Financial Data Analysis workshop designed to help you harness the power of Python in your data-driven analysis and research tasks. This workshop is ideal for anyone aiming to gain a solid understanding of Python python fundamentals and its application in data analysis to foster actionable insights and enhance productivity in the workplace.
 
 ## Resources Page
 

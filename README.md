@@ -19,7 +19,7 @@ This is the resources page for the course. Below you will find links to the Cola
 
 3. [Module 3 Transforming Data](https://colab.research.google.com/drive/1M-FvaF8SSoAAgMYxpkorNAcwUojH9Gz7?usp=sharing)
 
-4. Module 4 [Case Study](https://colab.research.google.com/drive/10RbUo7KAdEuY_hPxNn_BIaEaQIwIGxed?usp=sharing)
+4. [Module 4 Case Study](https://colab.research.google.com/drive/10RbUo7KAdEuY_hPxNn_BIaEaQIwIGxed?usp=sharing)
 
 ### Final Quiz
 Finish this quiz at the end of the course, with a score of 70% or more to receive an e-certificate for your LinkedIn 

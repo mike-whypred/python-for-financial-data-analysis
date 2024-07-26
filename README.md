@@ -15,7 +15,7 @@ This is the resources page for the course. Below you will find links to the Cola
 ### Colab Notebooks
 1. [Module 1 Python Fundamentals](https://colab.research.google.com/drive/1L_vHfGY5nu4gYStQ7r6QiOwwnsUH3kVo?usp=sharing)
 
-2. Module 2 Working with Dataframes
+2. [Module 2 Working with Dataframes](https://colab.research.google.com/drive/1hfuC2GoSk-7s31rutV05ars0JEJw-eqw?usp=sharing)
 
 3. Module 3 Transforming Data
 

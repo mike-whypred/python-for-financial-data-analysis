@@ -13,10 +13,16 @@ Join us for an intensive Python for Financial Data Analysis workshop designed to
 This is the resources page for the course. Below you will find links to the Colab notebooks used in each module and the Streamlit quiz page to test your knowledge.
 
 ### Colab Notebooks
+1. [Module 1 Python Fundamentals](https://colab.research.google.com/drive/1L_vHfGY5nu4gYStQ7r6QiOwwnsUH3kVo?usp=sharing)
 
+2. Module 2 Working with Dataframes
+
+3. Module 3 Transforming Data
+
+4. Module 4 Applying Analysis and Case Study
 
 ### Final Quiz
-Finish this quiz at the end of the course to receive an e-certificate for your LinkedIn 
+Finish this quiz at the end of the course, with a score of 70% or more to receive an e-certificate for your LinkedIn 
 
 ---
 

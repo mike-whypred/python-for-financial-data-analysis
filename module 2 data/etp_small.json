@@ -1,0 +1,19 @@
+[
+    {"ticker": "A200", "sector": "Equity - Australia", "mer": 0.04, "fum": 4296.27, "one_month_return": 1.48},
+    {"ticker": "IOZ", "sector": "Equity - Australia", "mer": 0.05, "fum": 5122.88, "one_month_return": 1.34},
+    {"ticker": "ILC", "sector": "Equity - Australia", "mer": 0.24, "fum": 596.46, "one_month_return": 1.88},
+    {"ticker": "MVW", "sector": "Equity - Australia", "mer": 0.35, "fum": 2098.95, "one_month_return": 0.36},
+    {"ticker": "QOZ", "sector": "Equity - Australia", "mer": 0.4, "fum": 500.09, "one_month_return": 2.24},
+    {"ticker": "STW", "sector": "Equity - Australia", "mer": 0.05, "fum": 4987.77, "one_month_return": 1.19},
+    {"ticker": "SFY", "sector": "Equity - Australia", "mer": 0.286, "fum": 807.65, "one_month_return": 1.71},
+    {"ticker": "VAS", "sector": "Equity - Australia", "mer": 0.07, "fum": 14584.16, "one_month_return": 1.36},
+    {"ticker": "VLC", "sector": "Equity - Australia", "mer": 0.2, "fum": 230.68, "one_month_return": 1.58},
+    {"ticker": "EX20", "sector": "Equity - Australia Small/Mid Cap", "mer": 0.25, "fum": 251.46, "one_month_return": 0.87},
+    {"ticker": "IMPQ", "sector": "Equity - Australia Small/Mid Cap", "mer": 0.99, "fum": 44.1, "one_month_return": -1.65},
+    {"ticker": "ISO", "sector": "Equity - Australia Small/Mid Cap", "mer": 0.55, "fum": 149.85, "one_month_return": 1.13},
+    {"ticker": "KSM", "sector": "Equity - Australia Small/Mid Cap", "mer": 2.27, "fum": 10.79, "one_month_return": 2.21},
+    {"ticker": "MVE", "sector": "Equity - Australia Small/Mid Cap", "mer": 0.45, "fum": 215.17, "one_month_return": -3.83},
+    {"ticker": "MVS", "sector": "Equity - Australia Small/Mid Cap", "mer": 0.49, "fum": 46.8, "one_month_return": 1.4},
+    {"ticker": "SSO", "sector": "Equity - Australia Small/Mid Cap", "mer": 0.5, "fum": 26.56, "one_month_return": 0.82},
+    {"ticker": "VSO", "sector": "Equity - Australia Small/Mid Cap", "mer": 0.3, "fum": 868.9, "one_month_return": 0.4}
+]

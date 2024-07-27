@@ -26,7 +26,7 @@ Finish this [quiz](https://pfda-completion-exam.streamlit.app/) at the end of th
 
 ### Feedback Survey
 
-Your feedback is invaluable to making this course better! Please share your thoughts [here](https://forms.gle/GwMa7esQcx95xHE59)
+Your feedback is invaluable to making this course better! Please share your thoughts [here](https://forms.gle/wi6wDkAmM16yu8pY8)
 
 ---
 

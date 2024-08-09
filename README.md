@@ -22,7 +22,7 @@ This is the resources page for the course. Below you will find links to the Cola
 4. [Module 4 Case Study](https://colab.research.google.com/drive/10RbUo7KAdEuY_hPxNn_BIaEaQIwIGxed?usp=sharing)
 
 ### Final Quiz
-Finish this [quiz](https://pfda-completion-exam.streamlit.app/) at the end of the course, with a score of 80% or more to receive an e-badge and certificate for your LinkedIn 
+Finish this [quiz](https://pfda-completion-exam.streamlit.app/) at the end of the course, with a score of 80% or more to receive a certificate of completion
 
 ### Feedback Survey
 
